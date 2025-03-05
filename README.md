@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=keymon%20ai_git&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=keymon%20ai_git&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 <!--
 **ProdKEYMON/ProdKEYMON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
