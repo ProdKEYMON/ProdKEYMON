@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=keymon%20ai_git&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=pretendard&pause=1000&color=F71DA9&width=435&lines=Less+is+Better)](https://git.io/typing-svg)
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
 <!--
 **ProdKEYMON/ProdKEYMON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
