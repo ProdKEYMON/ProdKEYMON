@@ -26,7 +26,7 @@ I solve problems and continuously learn and grow through various projects and te
 - **Project A:** Developed an AI consulting application by training an AI model on BlendX's core consulting algorithm from a comprehensive advertising agency.
 - **Project B:** Created a visioning model by vectorizing a database of 700 products from Olive Young and transfer learning on skin diagnosis data from 30,000 users, and integrated it into a RAG application.
 
-For more details, check out my [GitHub Projects]([https://github.com/yourusername?tab=repositories](https://github.com/ProdKEYMON)).
+For more details, check out my [GitHub Projects](https://github.com/ProdKEYMON).
 
 ---
 
@@ -47,8 +47,8 @@ The main technologies I work with are:
 If you're interested in new projects or collaborations, feel free to contact me through:
 
 - **Email:** [your.email@example.com](mailto:prod.keymon@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/keymon](https://www.linkedin.com/in/keymon/))
-- **Twitter:** [@yourhandle]([https://twitter.com/yourhandle](https://x.com/ProdKeymon))
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/keymon/)
+- **Twitter:** [@yourhandle](https://x.com/ProdKeymon)
 
 ---
 
