@@ -1,4 +1,3 @@
-## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=keymon%20ai_git&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71DA9&random=true&width=435&lines=Less+is+Better;A.I+Engineer+%2F+A.I+Service+Architect;Problem+makes+a+new+one)](https://git.io/typing-svg)
 <!--
